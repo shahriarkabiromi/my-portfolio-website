@@ -1,4 +1,11 @@
-*{
-    color: aquamarine;
-    background-color: brown;
+
+#mar{
+    border: 20px;
+    border-color: aqua;
+    border-radius: 5px;
+    margin:auto;
+    padding: 5px;
+    width: 20%;
+    height: 20%;
+    color: blueviolet;
 }
